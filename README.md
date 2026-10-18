@@ -162,6 +162,7 @@ solarwinds-ioc-investigation/
 │   ├── ioc-match-5-252-177-25.png
 │   ├── ioc-match-13-59-205-66.png
 │   ├── nist-playbook-case-management.png
+│   ├── solarwinds-ioc-investigation-banner.png
 │   └── threat-intelligence-remediation.png
 └── README.md
 ```
